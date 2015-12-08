@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Walking Steel]]></title>
         <description><![CDATA[Walking Steel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/walking-steel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 07:32:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Dec 2015 07:33:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/walking-steel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Mammals, the first real life walker. It's a bit smaller than expected.</p>]]></description>
+            <link>https://www.facebook.com/walkingsteel/photos/a.1578845872377766.1073741828.1435600540035634/1626795507582802/?type=3</link>
+            <guid isPermaLink="false">c7c370fb-991e-485b-ac06-d04cbebeb898</guid>
+            <pubDate>Tue, 08 Dec 2015 07:33:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Walking Steel posted this photo on 2015-05-25. 3 likes. 1 comments. 0 shares.</p>]]></description>
