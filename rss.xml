@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Walking Steel]]></title>
+        <description><![CDATA[Walking Steel]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Dec 2015 07:32:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Walking Steel posted this photo on 2015-05-25. 3 likes. 1 comments. 0 shares.</p>]]></description>
+            <link>https://www.facebook.com/walkingsteel/photos/a.1573959986199688.1073741827.1435600540035634/1573959972866356/?type=3</link>
+            <guid isPermaLink="false">9c5a1090-d229-4d8d-97db-dd71d7026d70</guid>
+            <pubDate>Tue, 08 Dec 2015 07:32:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
