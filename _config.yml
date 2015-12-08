@@ -1,0 +1,28 @@
+name: Walking Steel
+favicon: null
+layout_spectrum: 0.27699618064798415
+typography_spectrum: 0.6259180228225887
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4316585105843842
+  lightness: 0.8224837183952332
+  saturation: 0.2836587345227599
+  rhythmicContrast: 0.28592059249058366
+purpose: []
