@@ -1,6 +1,6 @@
 name: Walking Steel
 favicon: null
-layout_spectrum: 0.50337
+layout_spectrum: 0.75864
 typography_spectrum: 0.68654
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#262627'
     - '#752908'
     - '#8f533c'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.5
   saturation: 0
   rhythmicContrast: 0.5
